@@ -1,2 +1,0 @@
-# Praktium
-Praktikum 
